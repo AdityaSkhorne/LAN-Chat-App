@@ -62,7 +62,7 @@ This project does not require internet connectivity and works over a local netwo
    g++ main.cpp network.cpp -o chatApp -lws2_32
 
 Running the Application
-
+<br>
 Server Side: On one machine, run the server code.
 ./chatApp.exe
 
@@ -75,6 +75,7 @@ File Sharing: The app also supports file sharing, where you can send and receive
 
 
 Future Enhancements
+<br>
 This project can be enhanced by adding the following features:
 Voice/Video Chat: Integration of voice or video calling.
 Message History: Store sent messages in files or databases for later retrieval.
